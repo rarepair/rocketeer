@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\iCloudDrive\proj\21_Rocket_Engine_Igniter\5_PCB\Rocket_Engine_Igniter.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rocket_engine_igniter-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rocket_engine_igniter-slotholes.txt|DrillLayers=gtl,gbl

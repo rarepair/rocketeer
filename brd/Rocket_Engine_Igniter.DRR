@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Rocket_Engine_Igniter.PcbDoc   2024-11-26  8:30:52 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L2
+ASCII RoundHoles File : Rocket_Engine_Igniter-RoundHoles.TXT
+ASCII SlotHoles File : Rocket_Engine_Igniter-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             109       PTH        35.72inch (907.18mm)
+T2      20mil (0.5mm)                                             Round             8         PTH        3.59inch (91.30mm)
+T3      32mil (0.8mm)                                             Round             2         PTH        0.08inch (2.00mm)
+T4      39mil (1.001mm)                                           Round             7         PTH        5.16inch (131.17mm)
+T5      39mil (1.001mm)                                           Slot              2         PTH        0.67inch (16.91mm)
+T6      47mil (1.199mm)                                           Round             2         PTH        0.43inch (11.00mm)
+T7      51mil (1.3mm)                                             Round             2         PTH        0.60inch (15.30mm)
+T8      65mil (1.651mm)                                           Round             3         PTH        0.43inch (10.92mm)
+T9      71mil (1.801mm)                                           Round             8         PTH        2.57inch (65.40mm)
+T10     79mil (1.999mm)                                           Round             2         PTH        0.20inch (5.00mm)
+T11     126mil (3.2mm)                                            Round             4         PTH        15.15inch (384.86mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              149
+
+Total Processing Time (hh:mm:ss) : 00:00:00
